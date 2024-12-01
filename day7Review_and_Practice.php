@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 // <!-- task 1 -->
 $name="Hasibul islam";
 $age=24;
@@ -87,4 +87,4 @@ function calculateDiscount($amount){
     }
 }
 calculateDiscount(600);
-?> -->
+?>

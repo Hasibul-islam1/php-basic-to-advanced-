@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 echo "sum 2 number <br>";
     function sum($num1,$num2){
         $num3=$num1+$num2;
@@ -15,4 +15,4 @@ echo "sum 2 number <br>";
         }
     }
     echo findNum(21);
-?> -->
+?>
